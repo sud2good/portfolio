@@ -16,7 +16,7 @@ const Common = (props) => {
                     <strong className="brand-name"> Online Digital Presence </strong>
                   </h1>
                   <h2 className="my-3">
-                    We are the team of talented developer making websites
+                    We are a team of talented developer making websites, apps, digital marketing and probably doing everything to improve you digital presence and help your business to acheive new heights.
                   </h2>
                   <div className="mt-3">
                     <NavLink to={props.visit} className="btn-get-started ">

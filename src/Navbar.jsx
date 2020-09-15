@@ -9,8 +9,8 @@ const Navbar = () => {
           <div className="col-10 mx-auto">
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
               <div className="container-fluid">
-                <NavLink className="navbar-brand" to="/">
-                  SUD..
+                <NavLink className="navbar-brand" to="/" class="mt-5">
+                 SUD2GOOD
                 </NavLink>
                 <button
                   className="navbar-toggler"
